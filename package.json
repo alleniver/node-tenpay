@@ -1,6 +1,6 @@
 {
-  "name": "tenpay",
-  "version": "2.1.18",
+  "name": "tenpay-v2",
+  "version": "2.1.24",
   "description": "微信支付 for nodejs",
   "main": "./lib",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/befinal/node-tenpay.git"
+    "url": "https://github.com/yiyu-liao/node-tenpay"
   },
   "engines": {
     "node": ">= 8.3.0"
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/befinal/node-tenpay/issues"
   },
-  "homepage": "https://github.com/befinal/node-tenpay#readme",
+  "homepage": "https://github.com/yiyu-liao/node-tenpay/blob/master/README.md",
   "dependencies": {
     "urllib": "^2.33.0",
     "xml2js": "^0.4.19"
